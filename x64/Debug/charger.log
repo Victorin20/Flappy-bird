@@ -1,0 +1,21 @@
+﻿  charger.cpp
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(24,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(24,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(52,29): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(53,44): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(56,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(56,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(86,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(86,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(87,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(87,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(101,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(101,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(102,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(102,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(142,27): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(142,22): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(143,37): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(145,37): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\Victorin\source\repos\charger\charger\charger.cpp(150,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  charger.vcxproj -> C:\Users\Victorin\source\repos\charger\x64\Debug\charger.exe
